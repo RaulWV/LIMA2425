@@ -1,0 +1,140 @@
+
+
+body {
+    color:black
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    background-image: url(gymwallpaper.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+}
+}
+
+header {
+    padding: 20px 0;
+    text-align: center;
+}
+
+h1 {
+    color: #00539f;
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+h2 {
+    color: #00539f;
+}
+
+section {
+    
+    padding: 20px;
+    margin: 20px;
+    background: #fff;
+    border-radius: 5px;
+}
+   
+    
+
+ul {
+    list-style-type: circle;
+    padding: 0;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+fieldset {
+    border: 1px solid #00539f;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+legend {
+    font-weight: bold;
+    color: #00539f;
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+input[type="text"]{width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type="email"]{width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type="tel"]{width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type="url"]{width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type="number"]{width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type="date"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    background: #00539f;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+input[type="submit"]:hover {
+    background: #003f7f;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #00539f;
+    color: #fff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+        
+        
+  
+
